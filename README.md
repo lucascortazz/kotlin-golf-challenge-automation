@@ -1,5 +1,4 @@
-# Challenge Lucas
-
+# Golf code challenge
 A small Kotlin/JVM project that models a golf match and verifies the behavior with unit tests.
 
 ## Project Structure
